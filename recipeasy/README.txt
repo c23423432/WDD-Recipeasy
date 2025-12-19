@@ -50,7 +50,7 @@ DB_USER=your_mysql_username
 DB_PASSWORD=your_mysql_password
 DB_NAME=recipeasy_db
 SESSION_SECRET=your_session_secret
-API_KEY=b7d9a900f5af403f912965a4904aeb5d
+API_KEY=your_api_key
 
 
 RUNNING THE APPLICATION
@@ -61,4 +61,3 @@ RUNNING THE APPLICATION
 2. Open a browser and go to:
    http://localhost:3000
 
-github repo: https://github.com/c23423432/WDD/tree/main/recipeasy
